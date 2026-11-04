@@ -4,9 +4,16 @@ I'm an IT Specialist and Hybrid Cloud Technician with a focus on system administ
 
 ---
 
+## 🔎 About the Username (`TSA3000`)
+
+* **TSA:** Stands for the **Silver Arrow** from the *Legend of Zelda: A Link to the Past* SNES game—a powerful and fun arrow to acquire.
+* **3000:** Added because some platforms required usernames to be a minimum of 7 characters.
+
+---
+
 ## 🛠️ Repositories & Projects
 
-Here is a collection of my repositories, including your projects like `ha-pillpilot`, `awtrix-ng-clock`, and `hourspilot`, complete with descriptions and quick issue-creation links:
+Here is a collection of my repositories, complete with descriptions and quick issue-creation links:
 
 | Repository | Description | Links |
 | :--- | :--- | :--- |
