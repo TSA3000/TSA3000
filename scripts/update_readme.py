@@ -6,12 +6,17 @@ import os
 import re
 import urllib.request
 
+# ── Settings ────────────────────────────────────────────────────────────────
 USER = "TSA3000"
 README = "README.md"
-EXCLUDE = {USER.lower()}          # skip the profile repo itself
+EXCLUDE = {USER.lower()}                  # skip the profile repo itself
+HIDE_FORKS = True
+KEEP_FORKS = {"deluge-remote-modern"}     # forks you actively maintain
+HIDE_ARCHIVED = False
 MAX_REPOS = 15
 MAX_EVENTS = 6
 TOKEN = os.environ.get("GITHUB_TOKEN")
+# ────────────────────────────────────────────────────────────────────────────
 
 
 def gh(url):
@@ -44,6 +49,21 @@ def get_repos():
         page += 1
 
 
+def filter_repos(repos):
+    keep = {k.lower() for k in KEEP_FORKS}
+    out = []
+    for r in repos:
+        name = r["name"].lower()
+        if name in EXCLUDE:
+            continue
+        if HIDE_FORKS and r["fork"] and name not in keep:
+            continue
+        if HIDE_ARCHIVED and r["archived"]:
+            continue
+        out.append(r)
+    return out
+
+
 def stats_block(repos):
     stars = sum(r["stargazers_count"] for r in repos)
     forks = sum(r["forks_count"] for r in repos)
@@ -51,7 +71,7 @@ def stats_block(repos):
     b = "https://img.shields.io/badge"
     return (
         '<p align="center">\n'
-        f'  <img src="{b}/Public%20repos-{len(repos)}-blue?style=for-the-badge&logo=github" />\n'
+        f'  <img src="{b}/Repos-{len(repos)}-blue?style=for-the-badge&logo=github" />\n'
         f'  <img src="{b}/Total%20stars-{stars}-yellow?style=for-the-badge&logo=starship" />\n'
         f'  <img src="{b}/Forks-{forks}-green?style=for-the-badge&logo=git" />\n'
         '</p>\n\n'
@@ -76,21 +96,26 @@ def repos_block(repos):
             f'| {name} | {desc} | {r["stargazers_count"]} | `{lang}` | '
             f'{ago(r["pushed_at"])} | [🐛 Issue]({r["html_url"]}/issues/new) |'
         )
-    if len(repos) > MAX_REPOS:
-        rows.append(f"\n➡️ [See all {len(repos)} repositories]"
-                    f"(https://github.com/{USER}?tab=repositories)")
+    rows.append(f"\n➡️ [See all repositories](https://github.com/{USER}?tab=repositories)")
     return "\n".join(rows)
 
 
 def activity_block():
-    lines = []
-    for e in gh(f"https://api.github.com/users/{USER}/events/public?per_page=50"):
+    lines, seen = [], set()
+    for e in gh(f"https://api.github.com/users/{USER}/events/public?per_page=100"):
         repo = e["repo"]["name"]
-        link = f"[{repo.split('/')[-1]}](https://github.com/{repo})"
+        short = repo.split("/")[-1]
+        if short.lower() in EXCLUDE:
+            continue
+        link = f"[{short}](https://github.com/{repo})"
         p, t = e["payload"], e["type"]
         if t == "PushEvent":
-            n = p.get("size", len(p.get("commits", [])))
-            msg = f"📝 Pushed {n} commit{'s' if n != 1 else ''} to {link}"
+            branch = p.get("ref", "").replace("refs/heads/", "")
+            key = ("push", repo, branch)
+            if key in seen:          # collapse repeated pushes to same branch
+                continue
+            seen.add(key)
+            msg = f"📝 Pushed to {link} `{branch}`"
         elif t == "ReleaseEvent":
             msg = f"🚀 Released **{p['release']['tag_name']}** in {link}"
         elif t == "CreateEvent" and p.get("ref_type") == "repository":
@@ -117,7 +142,7 @@ def inject(text, tag, content):
 
 
 def main():
-    repos = [r for r in get_repos() if r["name"].lower() not in EXCLUDE]
+    repos = filter_repos(get_repos())
     with open(README, encoding="utf-8") as f:
         text = f.read()
     new = inject(text, "STATS", stats_block(repos))
