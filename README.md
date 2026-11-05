@@ -36,6 +36,11 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Veeam-Backup%20Admin-00B336?style=for-the-badge&logo=veeam&logoColor=white" />
+  <img src="https://img.shields.io/badge/Disaster%20Recovery-Planning%20%26%20Restore-1F6FEB?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Security-Incident%20Response-B22222?style=for-the-badge&logo=letsencrypt&logoColor=white" />
   <img src="https://img.shields.io/badge/Security-Threat%20Analysis-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
