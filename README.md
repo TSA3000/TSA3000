@@ -1,31 +1,83 @@
-# Hi there, I'm Sam (TSA3000) 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=190&section=header&text=Sam%20Mahdi&fontSize=56&fontAlignY=35&animation=fadeIn&desc=Hybrid%20Cloud%20%E2%80%A2%20DevOps%20%E2%80%A2%20Home%20Automation&descAlignY=58" />
+</p>
 
-I'm an IT Specialist and Hybrid Cloud Technician with a focus on system administration, DevOps automation, home automation, and building custom software tools.
+<p align="center">
+  <a href="https://github.com/TSA3000">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Sam+(TSA3000)+%F0%9F%91%8B;Hybrid+IT+%26+Cloud+Technician+%E2%98%81%EF%B8%8F;PowerShell+%E2%80%A2+Rust+%E2%80%A2+Python+%E2%80%A2+Home+Assistant;Automating+everything+since+2005+%E2%9A%99%EF%B8%8F" />
+  </a>
+</p>
 
----
-
-## 🔎 About the Username (`TSA3000`)
-
-* **TSA:** Stands for the **Silver Arrow** from the *Legend of Zelda: A Link to the Past* SNES game—a powerful and fun arrow to acquire.
-* **3000:** Added because some platforms required usernames to be a minimum of 7 characters.
-
----
-
-## 🛠️ Repositories & Projects
-
-Here is a collection of my repositories, complete with descriptions and quick issue-creation links:
-
-| Repository | Description | Links |
-| :--- | :--- | :--- |
-| **[capturecraft](https://github.com/tsa3000/capturecraft)** | Open-source Rust desktop image editing and screen capture application. | [View Repo](https://github.com/tsa3000/capturecraft) • [🐛 Create Issue](https://github.com/tsa3000/capturecraft/issues/new) |
-| **[ha-pillpilot](https://github.com/tsa3000/ha-pillpilot)** | Home Assistant pill management and automation integration. | [View Repo](https://github.com/tsa3000/ha-pillpilot) • [🐛 Create Issue](https://github.com/tsa3000/ha-pillpilot/issues/new) |
-| **[awtrix-ng-clock](https://github.com/tsa3000/awtrix-ng-clock)** | Custom Berry scripts and telemetry configurations for AWTRIX NG smart pixel matrix displays. | [View Repo](https://github.com/tsa3000/awtrix-ng-clock) • [🐛 Create Issue](https://github.com/tsa3000/awtrix-ng-clock/issues/new) |
-| **[deluge-remote-modern-firefox](https://github.com/tsa3000/deluge-remote-modern-firefox)** | Firefox extension to manage your Deluge BitTorrent client with modern UI themes and icon packs. | [View Repo](https://github.com/tsa3000/deluge-remote-modern-firefox) • [🐛 Create Issue](https://github.com/tsa3000/deluge-remote-modern-firefox/issues/new) |
-| **[deluge-remote-modern](https://github.com/tsa3000/deluge-remote-modern)** | Chrome extension providing quick overview and management of Deluge BitTorrent clients. | [View Repo](https://github.com/tsa3000/deluge-remote-modern) • [🐛 Create Issue](https://github.com/tsa3000/deluge-remote-modern/issues/new) |
-| **[hourspilot](https://github.com/tsa3000/hourspilot)** | WordPress plugin for dynamic open hours management. | [View Repo](https://github.com/tsa3000/hourspilot) • [🐛 Create Issue](https://github.com/tsa3000/hourspilot/issues/new) |
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TSA3000&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+  <a href="https://github.com/TSA3000?tab=followers"><img src="https://img.shields.io/github/followers/TSA3000?style=for-the-badge&logo=github&color=24292e" /></a>
+  <a href="https://linkedin.com/in/sam-mahdi"><img src="https://img.shields.io/badge/LinkedIn-sam--mahdi-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:tsa3000@gmail.com"><img src="https://img.shields.io/badge/Email-tsa3000-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 📬 Feedback & Support
+### 🧰 Tech I work with
 
-If you run into any bugs or have feedback regarding any of these projects, feel free to click the **Create Issue** button next to the respective project above!
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=powershell,azure,linux,debian,kubernetes,docker,rust,py,js,php,wordpress,githubactions,git,vscode&perline=7" />
+</p>
+
+---
+
+### 📊 Live stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TSA3000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TSA3000&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TSA3000&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TSA3000&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+### 🛠️ Repositories
+
+<!-- STATS:START -->
+<!-- STATS:END -->
+
+<!-- REPOS:START -->
+<!-- REPOS:END -->
+
+---
+
+### ⚡ Recent activity
+
+<!-- ACTIVITY:START -->
+<!-- ACTIVITY:END -->
+
+---
+
+<details>
+<summary><b>🔎 Why "TSA3000"?</b></summary>
+<br>
+
+- **TSA** is the **Silver Arrow** from *The Legend of Zelda: A Link to the Past* (SNES), a powerful and fun arrow to get.
+- **3000** was added because some platforms required usernames of at least 7 characters.
+
+</details>
+
+<details>
+<summary><b>📬 Feedback & support</b></summary>
+<br>
+
+Found a bug or have an idea? Click **🐛 Issue** next to the project in the table above.
+
+</details>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TSA3000/TSA3000/output/github-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
+</p>
