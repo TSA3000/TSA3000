@@ -20,7 +20,24 @@
 ### 🧰 Tech I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=powershell,azure,linux,debian,kubernetes,docker,rust,py,js,php,wordpress,githubactions,git,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=powershell,azure,linux,debian,kubernetes,docker,rust,cs,c,cpp,py,js,php,bash,html,css,wordpress,githubactions,git,vscode&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VMware-vSphere%20%7C%20vCloud-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESPHome-000000?style=for-the-badge&logo=esphome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Security-Incident%20Response-B22222?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-Threat%20Analysis-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
 
 ---
