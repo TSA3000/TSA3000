@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=TSA3000&label=Profile%20views&color=0e75b6&style=for-the-badge" />
   <a href="https://github.com/TSA3000?tab=followers"><img src="https://img.shields.io/github/followers/TSA3000?style=for-the-badge&logo=github&color=24292e" /></a>
   <a href="https://linkedin.com/in/sam-mahdi"><img src="https://img.shields.io/badge/LinkedIn-sam--mahdi-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:tsa3000@gmail.com"><img src="https://img.shields.io/badge/Email-tsa3000-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:sam@c4.nu"><img src="https://img.shields.io/badge/Email-tsa3000-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
