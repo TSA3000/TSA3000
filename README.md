@@ -72,11 +72,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Repos-10-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Total%20stars-27-yellow?style=for-the-badge&logo=starship" />
+  <img src="https://img.shields.io/badge/Total%20stars-30-yellow?style=for-the-badge&logo=starship" />
   <img src="https://img.shields.io/badge/Forks-1-green?style=for-the-badge&logo=git" />
 </p>
 
-<p align="center"><sub>🕒 Last push: <b><a href="https://github.com/TSA3000/hourspilot">hourspilot</a></b> · 5 days ago · auto-updated 2026-11-05 22:07 UTC</sub></p>
+<p align="center"><sub>🕒 Last push: <b><a href="https://github.com/TSA3000/hourspilot">hourspilot</a></b> · 5 days ago · auto-updated 2026-11-06 05:40 UTC</sub></p>
 
 <!-- STATS:END -->
 
@@ -84,16 +84,16 @@
 
 | Repository | Description | ⭐ | Language | Updated | |
 |---|---|:-:|:-:|:-:|:-:|
-| [**hourspilot**](https://github.com/TSA3000/hourspilot) | WordPress plugin for dynamic opening hours management. | 0 | `PHP` | 5 days ago | [🐛 Issue](https://github.com/TSA3000/hourspilot/issues/new) |
+| [**hourspilot**](https://github.com/TSA3000/hourspilot) | WordPress plugin for dynamic opening hours management. | 1 | `PHP` | 5 days ago | [🐛 Issue](https://github.com/TSA3000/hourspilot/issues/new) |
 | [**deluge-remote-modern-firefox**](https://github.com/TSA3000/deluge-remote-modern-firefox) | Firefox extension to manage your Deluge BitTorrent client. Themes, icon packs, encryption, vanilla JS. MV3. | 2 | `JavaScript` | 5 days ago | [🐛 Issue](https://github.com/TSA3000/deluge-remote-modern-firefox/issues/new) |
 | [**deluge-remote-modern**](https://github.com/TSA3000/deluge-remote-modern) 🍴 | Provides quick overview of torrent information in Chrome for the torrent client Deluge. | 5 | `JavaScript` | 5 days ago | [🐛 Issue](https://github.com/TSA3000/deluge-remote-modern/issues/new) |
 | [**capturecraft**](https://github.com/TSA3000/capturecraft) | Open-source Rust screen capture and image editing app, a Snagit alternative. | 1 | `Rust` | 2 weeks ago | [🐛 Issue](https://github.com/TSA3000/capturecraft/issues/new) |
-| [**teams-multi-instance**](https://github.com/TSA3000/teams-multi-instance) | Windhawk mod that lets multiple new Microsoft Teams desktop instances run side by side. | 0 | `C++` | 1 month ago | [🐛 Issue](https://github.com/TSA3000/teams-multi-instance/issues/new) |
+| [**teams-multi-instance**](https://github.com/TSA3000/teams-multi-instance) | Windhawk mod that lets multiple new Microsoft Teams desktop instances run side by side. | 1 | `C++` | 1 month ago | [🐛 Issue](https://github.com/TSA3000/teams-multi-instance/issues/new) |
 | [**awtrix-ng-clock**](https://github.com/TSA3000/awtrix-ng-clock) | Berry scripts, MQTT telemetry and Home Assistant blueprints for AWTRIX NG pixel clocks. | 1 | `Berry` | 1 month ago | [🐛 Issue](https://github.com/TSA3000/awtrix-ng-clock/issues/new) |
 | [**ha-pillpilot**](https://github.com/TSA3000/ha-pillpilot) | Per-person medication tracking for Home Assistant. In-panel UI, multi-prescription schedules, dose history, automation events. Swedish medicines list bundled. | 11 | `Python` | 2 months ago | [🐛 Issue](https://github.com/TSA3000/ha-pillpilot/issues/new) |
 | [**ha-elprisetjustnu**](https://github.com/TSA3000/ha-elprisetjustnu) | ⚡ Home Assistant custom integration for real-time Swedish electricity prices (SE1-SE4) via Elpriset Just Nu. Tracks current, highest, and lowest daily prices in öre/kWh with full 15-minute interval support. | 3 | `Python` | 2 months ago | [🐛 Issue](https://github.com/TSA3000/ha-elprisetjustnu/issues/new) |
 | [**deluge-yarss2-webui**](https://github.com/TSA3000/deluge-yarss2-webui) | YaRSS2 Deluge plugin fork with WebUI support. | 4 | `Python` | 6 months ago | [🐛 Issue](https://github.com/TSA3000/deluge-yarss2-webui/issues/new) |
-| [**homelab-scripts**](https://github.com/TSA3000/homelab-scripts) | One-click Prowlarr installer/uninstaller for Ubuntu Server with systemd integration | 0 | `Shell` | 6 months ago | [🐛 Issue](https://github.com/TSA3000/homelab-scripts/issues/new) |
+| [**homelab-scripts**](https://github.com/TSA3000/homelab-scripts) | One-click Prowlarr installer/uninstaller for Ubuntu Server with systemd integration | 1 | `Shell` | 6 months ago | [🐛 Issue](https://github.com/TSA3000/homelab-scripts/issues/new) |
 
 ➡️ [See all repositories](https://github.com/TSA3000?tab=repositories)
 
@@ -105,12 +105,12 @@
 
 <!-- ACTIVITY:START -->
 
-1. 📝 Pushed to [hourspilot](https://github.com/TSA3000/hourspilot) `master` · <sub>5 days ago</sub>
-2. 📝 Pushed to [deluge-remote-modern](https://github.com/TSA3000/deluge-remote-modern) `master` · <sub>5 days ago</sub>
-3. 📝 Pushed to [deluge-remote-modern-firefox](https://github.com/TSA3000/deluge-remote-modern-firefox) `master` · <sub>5 days ago</sub>
-4. 📝 Pushed to [hourspilot](https://github.com/TSA3000/hourspilot) `feature/wporg` · <sub>6 days ago</sub>
-5. 🚀 Released **v0.6.0** in [hourspilot](https://github.com/TSA3000/hourspilot) · <sub>6 days ago</sub>
-6. 🚀 Released **v0.5.0** in [hourspilot](https://github.com/TSA3000/hourspilot) · <sub>6 days ago</sub>
+1. ⭐ Starred [hourspilot](https://github.com/TSA3000/hourspilot) · <sub>7 hours ago</sub>
+2. ⭐ Starred [teams-multi-instance](https://github.com/TSA3000/teams-multi-instance) · <sub>7 hours ago</sub>
+3. ⭐ Starred [homelab-scripts](https://github.com/TSA3000/homelab-scripts) · <sub>7 hours ago</sub>
+4. 📝 Pushed to [hourspilot](https://github.com/TSA3000/hourspilot) `master` · <sub>5 days ago</sub>
+5. 📝 Pushed to [deluge-remote-modern](https://github.com/TSA3000/deluge-remote-modern) `master` · <sub>5 days ago</sub>
+6. 📝 Pushed to [deluge-remote-modern-firefox](https://github.com/TSA3000/deluge-remote-modern-firefox) `master` · <sub>5 days ago</sub>
 
 <!-- ACTIVITY:END -->
 
