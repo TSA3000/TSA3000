@@ -71,12 +71,12 @@
 <!-- STATS:START -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repos-10-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-11-blue?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Total%20stars-30-yellow?style=for-the-badge&logo=starship" />
   <img src="https://img.shields.io/badge/Forks-1-green?style=for-the-badge&logo=git" />
 </p>
 
-<p align="center"><sub>🕒 Last push: <b><a href="https://github.com/TSA3000/hourspilot">hourspilot</a></b> · 5 days ago · auto-updated 2026-11-06 13:56 UTC</sub></p>
+<p align="center"><sub>🕒 Last push: <b><a href="https://github.com/TSA3000/ha-fuelpilot">ha-fuelpilot</a></b> · 8 hours ago · auto-updated 2026-11-06 22:50 UTC</sub></p>
 
 <!-- STATS:END -->
 
@@ -84,9 +84,10 @@
 
 | Repository | Description | ⭐ | Language | Updated | |
 |---|---|:-:|:-:|:-:|:-:|
-| [**hourspilot**](https://github.com/TSA3000/hourspilot) | WordPress plugin for dynamic opening hours management. | 1 | `PHP` | 5 days ago | [🐛 Issue](https://github.com/TSA3000/hourspilot/issues/new) |
-| [**deluge-remote-modern-firefox**](https://github.com/TSA3000/deluge-remote-modern-firefox) | Firefox extension to manage your Deluge BitTorrent client. Themes, icon packs, encryption, vanilla JS. MV3. | 2 | `JavaScript` | 5 days ago | [🐛 Issue](https://github.com/TSA3000/deluge-remote-modern-firefox/issues/new) |
-| [**deluge-remote-modern**](https://github.com/TSA3000/deluge-remote-modern) 🍴 | Provides quick overview of torrent information in Chrome for the torrent client Deluge. | 5 | `JavaScript` | 5 days ago | [🐛 Issue](https://github.com/TSA3000/deluge-remote-modern/issues/new) |
+| [**ha-fuelpilot**](https://github.com/TSA3000/ha-fuelpilot) | Swedish fuel prices (St1 list price) for Home Assistant | 0 | `Python` | 8 hours ago | [🐛 Issue](https://github.com/TSA3000/ha-fuelpilot/issues/new) |
+| [**hourspilot**](https://github.com/TSA3000/hourspilot) | WordPress plugin for dynamic opening hours management. | 1 | `PHP` | 6 days ago | [🐛 Issue](https://github.com/TSA3000/hourspilot/issues/new) |
+| [**deluge-remote-modern-firefox**](https://github.com/TSA3000/deluge-remote-modern-firefox) | Firefox extension to manage your Deluge BitTorrent client. Themes, icon packs, encryption, vanilla JS. MV3. | 2 | `JavaScript` | 6 days ago | [🐛 Issue](https://github.com/TSA3000/deluge-remote-modern-firefox/issues/new) |
+| [**deluge-remote-modern**](https://github.com/TSA3000/deluge-remote-modern) 🍴 | Provides quick overview of torrent information in Chrome for the torrent client Deluge. | 5 | `JavaScript` | 6 days ago | [🐛 Issue](https://github.com/TSA3000/deluge-remote-modern/issues/new) |
 | [**capturecraft**](https://github.com/TSA3000/capturecraft) | Open-source Rust screen capture and image editing app, a Snagit alternative. | 1 | `Rust` | 2 weeks ago | [🐛 Issue](https://github.com/TSA3000/capturecraft/issues/new) |
 | [**teams-multi-instance**](https://github.com/TSA3000/teams-multi-instance) | Windhawk mod that lets multiple new Microsoft Teams desktop instances run side by side. | 1 | `C++` | 1 month ago | [🐛 Issue](https://github.com/TSA3000/teams-multi-instance/issues/new) |
 | [**awtrix-ng-clock**](https://github.com/TSA3000/awtrix-ng-clock) | Berry scripts, MQTT telemetry and Home Assistant blueprints for AWTRIX NG pixel clocks. | 1 | `Berry` | 1 month ago | [🐛 Issue](https://github.com/TSA3000/awtrix-ng-clock/issues/new) |
@@ -105,12 +106,12 @@
 
 <!-- ACTIVITY:START -->
 
-1. ⭐ Starred [hourspilot](https://github.com/TSA3000/hourspilot) · <sub>15 hours ago</sub>
-2. ⭐ Starred [teams-multi-instance](https://github.com/TSA3000/teams-multi-instance) · <sub>15 hours ago</sub>
-3. ⭐ Starred [homelab-scripts](https://github.com/TSA3000/homelab-scripts) · <sub>15 hours ago</sub>
-4. 📝 Pushed to [hourspilot](https://github.com/TSA3000/hourspilot) `master` · <sub>5 days ago</sub>
-5. 📝 Pushed to [deluge-remote-modern](https://github.com/TSA3000/deluge-remote-modern) `master` · <sub>6 days ago</sub>
-6. 📝 Pushed to [deluge-remote-modern-firefox](https://github.com/TSA3000/deluge-remote-modern-firefox) `master` · <sub>5 days ago</sub>
+1. 🚀 Released **v0.0.1** in [ha-fuelpilot](https://github.com/TSA3000/ha-fuelpilot) · <sub>8 hours ago</sub>
+2. ⭐ Starred [hourspilot](https://github.com/TSA3000/hourspilot) · <sub>1 day ago</sub>
+3. ⭐ Starred [teams-multi-instance](https://github.com/TSA3000/teams-multi-instance) · <sub>1 day ago</sub>
+4. ⭐ Starred [homelab-scripts](https://github.com/TSA3000/homelab-scripts) · <sub>1 day ago</sub>
+5. 📝 Pushed to [hourspilot](https://github.com/TSA3000/hourspilot) `master` · <sub>6 days ago</sub>
+6. 📝 Pushed to [deluge-remote-modern](https://github.com/TSA3000/deluge-remote-modern) `master` · <sub>6 days ago</sub>
 
 <!-- ACTIVITY:END -->
 
