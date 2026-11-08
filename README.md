@@ -76,7 +76,7 @@
   <img src="https://img.shields.io/badge/Forks-1-green?style=for-the-badge&logo=git" />
 </p>
 
-<p align="center"><sub>🕒 Last push: <b><a href="https://github.com/TSA3000/ha-fuelpilot">ha-fuelpilot</a></b> · 1 day ago · auto-updated 2026-11-08 05:04 UTC</sub></p>
+<p align="center"><sub>🕒 Last push: <b><a href="https://github.com/TSA3000/ha-fuelpilot">ha-fuelpilot</a></b> · 1 day ago · auto-updated 2026-11-08 12:56 UTC</sub></p>
 
 <!-- STATS:END -->
 
@@ -91,8 +91,8 @@
 | [**capturecraft**](https://github.com/TSA3000/capturecraft) | Open-source Rust screen capture and image editing app, a Snagit alternative. | 1 | `Rust` | 2 weeks ago | [🐛 Issue](https://github.com/TSA3000/capturecraft/issues/new) |
 | [**teams-multi-instance**](https://github.com/TSA3000/teams-multi-instance) | Windhawk mod that lets multiple new Microsoft Teams desktop instances run side by side. | 1 | `C++` | 1 month ago | [🐛 Issue](https://github.com/TSA3000/teams-multi-instance/issues/new) |
 | [**awtrix-ng-clock**](https://github.com/TSA3000/awtrix-ng-clock) | Berry scripts, MQTT telemetry and Home Assistant blueprints for AWTRIX NG pixel clocks. | 1 | `Berry` | 1 month ago | [🐛 Issue](https://github.com/TSA3000/awtrix-ng-clock/issues/new) |
-| [**ha-pillpilot**](https://github.com/TSA3000/ha-pillpilot) | Per-person medication tracking for Home Assistant. In-panel UI, multi-prescription schedules, dose history, automation events. Swedish medicines list bundled. | 11 | `Python` | 2 months ago | [🐛 Issue](https://github.com/TSA3000/ha-pillpilot/issues/new) |
-| [**ha-elprisetjustnu**](https://github.com/TSA3000/ha-elprisetjustnu) | ⚡ Home Assistant custom integration for real-time Swedish electricity prices (SE1-SE4) via Elpriset Just Nu. Tracks current, highest, and lowest daily prices in öre/kWh with full 15-minute interval support. | 3 | `Python` | 2 months ago | [🐛 Issue](https://github.com/TSA3000/ha-elprisetjustnu/issues/new) |
+| [**ha-pillpilot**](https://github.com/TSA3000/ha-pillpilot) | Per-person medication tracking for Home Assistant. In-panel UI, multi-prescription schedules, dose history, automation events. Swedish medicines list bundled. | 11 | `Python` | 3 months ago | [🐛 Issue](https://github.com/TSA3000/ha-pillpilot/issues/new) |
+| [**ha-elprisetjustnu**](https://github.com/TSA3000/ha-elprisetjustnu) | ⚡ Home Assistant custom integration for real-time Swedish electricity prices (SE1-SE4) via Elpriset Just Nu. Tracks current, highest, and lowest daily prices in öre/kWh with full 15-minute interval support. | 3 | `Python` | 3 months ago | [🐛 Issue](https://github.com/TSA3000/ha-elprisetjustnu/issues/new) |
 | [**deluge-yarss2-webui**](https://github.com/TSA3000/deluge-yarss2-webui) | YaRSS2 Deluge plugin fork with WebUI support. | 4 | `Python` | 6 months ago | [🐛 Issue](https://github.com/TSA3000/deluge-yarss2-webui/issues/new) |
 | [**homelab-scripts**](https://github.com/TSA3000/homelab-scripts) | One-click Prowlarr installer/uninstaller for Ubuntu Server with systemd integration | 1 | `Shell` | 6 months ago | [🐛 Issue](https://github.com/TSA3000/homelab-scripts/issues/new) |
 
