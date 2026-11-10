@@ -76,7 +76,7 @@
   <img src="https://img.shields.io/badge/Forks-1-green?style=for-the-badge&logo=git" />
 </p>
 
-<p align="center"><sub>🕒 Last push: <b><a href="https://github.com/TSA3000/ha-fuelpilot">ha-fuelpilot</a></b> · 3 days ago · auto-updated 2026-11-10 01:18 UTC</sub></p>
+<p align="center"><sub>🕒 Last push: <b><a href="https://github.com/TSA3000/ha-fuelpilot">ha-fuelpilot</a></b> · 3 days ago · auto-updated 2026-11-10 14:31 UTC</sub></p>
 
 <!-- STATS:END -->
 
@@ -88,7 +88,7 @@
 | [**hourspilot**](https://github.com/TSA3000/hourspilot) | WordPress plugin for dynamic opening hours management. | 1 | `PHP` | 1 week ago | [🐛 Issue](https://github.com/TSA3000/hourspilot/issues/new) |
 | [**deluge-remote-modern-firefox**](https://github.com/TSA3000/deluge-remote-modern-firefox) | Firefox extension to manage your Deluge BitTorrent client. Themes, icon packs, encryption, vanilla JS. MV3. | 2 | `JavaScript` | 1 week ago | [🐛 Issue](https://github.com/TSA3000/deluge-remote-modern-firefox/issues/new) |
 | [**deluge-remote-modern**](https://github.com/TSA3000/deluge-remote-modern) 🍴 | Provides quick overview of torrent information in Chrome for the torrent client Deluge. | 5 | `JavaScript` | 1 week ago | [🐛 Issue](https://github.com/TSA3000/deluge-remote-modern/issues/new) |
-| [**capturecraft**](https://github.com/TSA3000/capturecraft) | Open-source Rust screen capture and image editing app, a Snagit alternative. | 1 | `Rust` | 2 weeks ago | [🐛 Issue](https://github.com/TSA3000/capturecraft/issues/new) |
+| [**capturecraft**](https://github.com/TSA3000/capturecraft) | Open-source Rust screen capture and image editing app, a Snagit alternative. | 1 | `Rust` | 3 weeks ago | [🐛 Issue](https://github.com/TSA3000/capturecraft/issues/new) |
 | [**teams-multi-instance**](https://github.com/TSA3000/teams-multi-instance) | Windhawk mod that lets multiple new Microsoft Teams desktop instances run side by side. | 1 | `C++` | 1 month ago | [🐛 Issue](https://github.com/TSA3000/teams-multi-instance/issues/new) |
 | [**awtrix-ng-clock**](https://github.com/TSA3000/awtrix-ng-clock) | Berry scripts, MQTT telemetry and Home Assistant blueprints for AWTRIX NG pixel clocks. | 1 | `Berry` | 1 month ago | [🐛 Issue](https://github.com/TSA3000/awtrix-ng-clock/issues/new) |
 | [**ha-pillpilot**](https://github.com/TSA3000/ha-pillpilot) | Per-person medication tracking for Home Assistant. In-panel UI, multi-prescription schedules, dose history, automation events. Swedish medicines list bundled. | 11 | `Python` | 3 months ago | [🐛 Issue](https://github.com/TSA3000/ha-pillpilot/issues/new) |
@@ -106,10 +106,10 @@
 
 <!-- ACTIVITY:START -->
 
-1. ⭐ Starred [colibri](https://github.com/JustVugg/colibri) · <sub>37 minutes ago</sub>
-2. 🐛 Assigned issue #1 in [deluge-remote-modern](https://github.com/TSA3000/deluge-remote-modern) · <sub>1 day ago</sub>
-3. 🐛 Labeled issue #1 in [deluge-remote-modern](https://github.com/TSA3000/deluge-remote-modern) · <sub>1 day ago</sub>
-4. 📝 Pushed to [ha-fuelpilot](https://github.com/TSA3000/ha-fuelpilot) `main` · <sub>3 days ago</sub>
+1. ⭐ Starred [colibri](https://github.com/JustVugg/colibri) · <sub>13 hours ago</sub>
+2. 🐛 Assigned issue #1 in [deluge-remote-modern](https://github.com/TSA3000/deluge-remote-modern) · <sub>2 days ago</sub>
+3. 🐛 Labeled issue #1 in [deluge-remote-modern](https://github.com/TSA3000/deluge-remote-modern) · <sub>2 days ago</sub>
+4. 📝 Pushed to [ha-fuelpilot](https://github.com/TSA3000/ha-fuelpilot) `main` · <sub>4 days ago</sub>
 5. 🚀 Released **v0.0.1** in [ha-fuelpilot](https://github.com/TSA3000/ha-fuelpilot) · <sub>3 days ago</sub>
 6. ⭐ Starred [hourspilot](https://github.com/TSA3000/hourspilot) · <sub>4 days ago</sub>
 
