@@ -76,7 +76,7 @@
   <img src="https://img.shields.io/badge/Forks-1-green?style=for-the-badge&logo=git" />
 </p>
 
-<p align="center"><sub>🕒 Last push: <b><a href="https://github.com/TSA3000/ha-fuelpilot">ha-fuelpilot</a></b> · 6 days ago · auto-updated 2026-11-13 14:10 UTC</sub></p>
+<p align="center"><sub>🕒 Last push: <b><a href="https://github.com/TSA3000/ha-fuelpilot">ha-fuelpilot</a></b> · 1 week ago · auto-updated 2026-11-13 23:22 UTC</sub></p>
 
 <!-- STATS:END -->
 
@@ -84,7 +84,7 @@
 
 | Repository | Description | ⭐ | Language | Updated | |
 |---|---|:-:|:-:|:-:|:-:|
-| [**ha-fuelpilot**](https://github.com/TSA3000/ha-fuelpilot) | Swedish fuel prices (St1 list price) for Home Assistant | 0 | `Python` | 6 days ago | [🐛 Issue](https://github.com/TSA3000/ha-fuelpilot/issues/new) |
+| [**ha-fuelpilot**](https://github.com/TSA3000/ha-fuelpilot) | Swedish fuel prices (St1 list price) for Home Assistant | 0 | `Python` | 1 week ago | [🐛 Issue](https://github.com/TSA3000/ha-fuelpilot/issues/new) |
 | [**hourspilot**](https://github.com/TSA3000/hourspilot) | WordPress plugin for dynamic opening hours management. | 1 | `PHP` | 1 week ago | [🐛 Issue](https://github.com/TSA3000/hourspilot/issues/new) |
 | [**deluge-remote-modern-firefox**](https://github.com/TSA3000/deluge-remote-modern-firefox) | Firefox extension to manage your Deluge BitTorrent client. Themes, icon packs, encryption, vanilla JS. MV3. | 2 | `JavaScript` | 1 week ago | [🐛 Issue](https://github.com/TSA3000/deluge-remote-modern-firefox/issues/new) |
 | [**deluge-remote-modern**](https://github.com/TSA3000/deluge-remote-modern) 🍴 | Provides quick overview of torrent information in Chrome for the torrent client Deluge. | 5 | `JavaScript` | 1 week ago | [🐛 Issue](https://github.com/TSA3000/deluge-remote-modern/issues/new) |
@@ -94,7 +94,7 @@
 | [**ha-pillpilot**](https://github.com/TSA3000/ha-pillpilot) | Per-person medication tracking for Home Assistant. In-panel UI, multi-prescription schedules, dose history, automation events. Swedish medicines list bundled. | 11 | `Python` | 3 months ago | [🐛 Issue](https://github.com/TSA3000/ha-pillpilot/issues/new) |
 | [**ha-elprisetjustnu**](https://github.com/TSA3000/ha-elprisetjustnu) | ⚡ Home Assistant custom integration for real-time Swedish electricity prices (SE1-SE4) via Elpriset Just Nu. Tracks current, highest, and lowest daily prices in öre/kWh with full 15-minute interval support. | 3 | `Python` | 3 months ago | [🐛 Issue](https://github.com/TSA3000/ha-elprisetjustnu/issues/new) |
 | [**deluge-yarss2-webui**](https://github.com/TSA3000/deluge-yarss2-webui) | YaRSS2 Deluge plugin fork with WebUI support. | 4 | `Python` | 6 months ago | [🐛 Issue](https://github.com/TSA3000/deluge-yarss2-webui/issues/new) |
-| [**homelab-scripts**](https://github.com/TSA3000/homelab-scripts) | One-click Prowlarr installer/uninstaller for Ubuntu Server with systemd integration | 1 | `Shell` | 6 months ago | [🐛 Issue](https://github.com/TSA3000/homelab-scripts/issues/new) |
+| [**homelab-scripts**](https://github.com/TSA3000/homelab-scripts) | One-click Prowlarr installer/uninstaller for Ubuntu Server with systemd integration | 1 | `Shell` | 7 months ago | [🐛 Issue](https://github.com/TSA3000/homelab-scripts/issues/new) |
 
 ➡️ [See all repositories](https://github.com/TSA3000?tab=repositories)
 
@@ -109,8 +109,8 @@
 1. ⭐ Starred [colibri](https://github.com/JustVugg/colibri) · <sub>3 days ago</sub>
 2. 🐛 Assigned issue #1 in [deluge-remote-modern](https://github.com/TSA3000/deluge-remote-modern) · <sub>5 days ago</sub>
 3. 🐛 Labeled issue #1 in [deluge-remote-modern](https://github.com/TSA3000/deluge-remote-modern) · <sub>5 days ago</sub>
-4. 📝 Pushed to [ha-fuelpilot](https://github.com/TSA3000/ha-fuelpilot) `main` · <sub>6 days ago</sub>
-5. 🚀 Released **v0.0.1** in [ha-fuelpilot](https://github.com/TSA3000/ha-fuelpilot) · <sub>6 days ago</sub>
+4. 📝 Pushed to [ha-fuelpilot](https://github.com/TSA3000/ha-fuelpilot) `main` · <sub>1 week ago</sub>
+5. 🚀 Released **v0.0.1** in [ha-fuelpilot](https://github.com/TSA3000/ha-fuelpilot) · <sub>1 week ago</sub>
 6. ⭐ Starred [hourspilot](https://github.com/TSA3000/hourspilot) · <sub>1 week ago</sub>
 
 <!-- ACTIVITY:END -->
