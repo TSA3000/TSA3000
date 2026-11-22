@@ -76,7 +76,7 @@
   <img src="https://img.shields.io/badge/Forks-1-green?style=for-the-badge&logo=git" />
 </p>
 
-<p align="center"><sub>🕒 Last push: <b><a href="https://github.com/TSA3000/ha-fuelpilot">ha-fuelpilot</a></b> · 2 weeks ago · auto-updated 2026-11-21 18:50 UTC</sub></p>
+<p align="center"><sub>🕒 Last push: <b><a href="https://github.com/TSA3000/ha-fuelpilot">ha-fuelpilot</a></b> · 2 weeks ago · auto-updated 2026-11-22 05:42 UTC</sub></p>
 
 <!-- STATS:END -->
 
@@ -85,7 +85,7 @@
 | Repository | Description | ⭐ | Language | Updated | |
 |---|---|:-:|:-:|:-:|:-:|
 | [**ha-fuelpilot**](https://github.com/TSA3000/ha-fuelpilot) | Swedish fuel prices (St1 list price) for Home Assistant | 0 | `Python` | 2 weeks ago | [🐛 Issue](https://github.com/TSA3000/ha-fuelpilot/issues/new) |
-| [**hourspilot**](https://github.com/TSA3000/hourspilot) | WordPress plugin for dynamic opening hours management. | 1 | `PHP` | 2 weeks ago | [🐛 Issue](https://github.com/TSA3000/hourspilot/issues/new) |
+| [**hourspilot**](https://github.com/TSA3000/hourspilot) | WordPress plugin for dynamic opening hours management. | 1 | `PHP` | 3 weeks ago | [🐛 Issue](https://github.com/TSA3000/hourspilot/issues/new) |
 | [**deluge-remote-modern-firefox**](https://github.com/TSA3000/deluge-remote-modern-firefox) | Firefox extension to manage your Deluge BitTorrent client. Themes, icon packs, encryption, vanilla JS. MV3. | 2 | `JavaScript` | 3 weeks ago | [🐛 Issue](https://github.com/TSA3000/deluge-remote-modern-firefox/issues/new) |
 | [**deluge-remote-modern**](https://github.com/TSA3000/deluge-remote-modern) 🍴 | Provides quick overview of torrent information in Chrome for the torrent client Deluge. | 5 | `JavaScript` | 3 weeks ago | [🐛 Issue](https://github.com/TSA3000/deluge-remote-modern/issues/new) |
 | [**capturecraft**](https://github.com/TSA3000/capturecraft) | Open-source Rust screen capture and image editing app, a Snagit alternative. | 1 | `Rust` | 1 month ago | [🐛 Issue](https://github.com/TSA3000/capturecraft/issues/new) |
