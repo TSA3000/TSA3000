@@ -76,7 +76,7 @@
   <img src="https://img.shields.io/badge/Forks-1-green?style=for-the-badge&logo=git" />
 </p>
 
-<p align="center"><sub>🕒 Last push: <b><a href="https://github.com/TSA3000/ha-fuelpilot">ha-fuelpilot</a></b> · 2 weeks ago · auto-updated 2026-11-25 21:18 UTC</sub></p>
+<p align="center"><sub>🕒 Last push: <b><a href="https://github.com/TSA3000/ha-fuelpilot">ha-fuelpilot</a></b> · 2 weeks ago · auto-updated 2026-11-26 07:25 UTC</sub></p>
 
 <!-- STATS:END -->
 
@@ -111,7 +111,6 @@
 3. 🐛 Labeled issue #1 in [deluge-remote-modern](https://github.com/TSA3000/deluge-remote-modern) · <sub>2 weeks ago</sub>
 4. 📝 Pushed to [ha-fuelpilot](https://github.com/TSA3000/ha-fuelpilot) `main` · <sub>2 weeks ago</sub>
 5. 🚀 Released **v0.0.1** in [ha-fuelpilot](https://github.com/TSA3000/ha-fuelpilot) · <sub>2 weeks ago</sub>
-6. ⭐ Starred [hourspilot](https://github.com/TSA3000/hourspilot) · <sub>2 weeks ago</sub>
 
 <!-- ACTIVITY:END -->
 
